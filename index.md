@@ -1,19 +1,13 @@
 ### Mohamad Mahdi Akbari
 ---<img src="photo_2020.jpg">
-### Skill Highlights
-+
-+
-+ Web Designing (HTML, CSS) + Programming Languages (Python, C++,C) + Network Security + Photoshop ### Education
-+
-+ Diploma: Fadak High School
-- 2015 + Associate Degree: Accounting
--2016, Islamic Azad University
-+ Bachelor of science: Computer Engineering
--2018, Payam Noor University of Tehran ### Other Skills
-+ Fluent in 3 Languages: English, Turkish, Azerb + Pianist
-### Favorites
-+ Fitness + Music
-### Working Experience
-+ Now i am a Bachelors students in computer eng
-### Social Media
-+ https://facebook.com/fatemehvkl1
+
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/crzboy/Shervin_Ak/blob/gh-pages/Mohamad%20mahdi%20Akbari_Persian_Resume.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
