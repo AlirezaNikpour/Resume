@@ -1,78 +1,55 @@
 <h1>Mohamad Mahdi Akbari</h1>
 <img src="photo_2020.jpg">
-site designer
+Mobile-Repairman
 ---
 
-### Specifications :
-+ Born: 1379/4/2
-+ Gender: Female 
-+ Contact number: 09302720706
+### Personal Information :
++ Age: 20
++ Gender: Male 
++ Location: Shahre ghods
++ Marital Status: Single
++ Military Service Status:Educational Exemption
 
 ---
-### Educational background : 
+### Education : 
+Bachelor Software engineeringShahriar PNU 
 
-+ 1397 so far 
-
-### Computer Engineering :
-
-+ software ، Payame Noor Shahriar University,Masters
-+ GPA: 16
-
----
-### Summary of activities :
-
-+ Doing site design projects (Shop, photography,product introduction، Restaurant ،
-news site) 
+### Work Experience :
++Mobile & Tablet work repair:
+-Two years of shop experience in the field of professional mobile repairs and mobilesales.
+-Has a valid international technical degree in mobile phone repair.
+-Fluent in searching and typing fast.
+-Familiarity with the field of repairing and replacing computer and lip components.
++Other:
+-Familiarity with different types of Word, Exel , Power Point and other applications.
 
 ---
-### Projects :
-+ ۱۳۹۹ 
-- shopping website
-- Front end and Back end
-
-+ ۱۳۹۹ 
-- news site
-- Front end and Back end
-
-+ ۱۳۹۹ 
-- Photography site
-- Front end and Back end
-
-+ ۱۳۹۹ 
-- Product introduction site
-- Front end and Back end
-
-+ ۱۳۹۹ 
-- Modern restaurant site
-- Front end and Back end
-
----
-### Skills
-
-+ Html5 (100 % )
-+ Css3 ( 100 % )
-+ bootstrap (100 %)
-+ javascript (100 % )
-+ jQuery (100 %)
-+ C (100 % )
-+ C++ (100 % )
-+ Excel (100% )
-+ Word  (100% )
-+ Powerpoint (100% )
+### Training Courses :
++Mobile Repairs:
+-Professional technical organizationIran
 
 ---
 ### Language :
-
-+ Mastery rate (50%)
-
----
-### Behavioral strengths
-
-+ Customer and employer communication
-+  Central strategy (strategic thinking)
-+ Impact / negotiation
-+ Problem solving and decision making
-+ Commitment and motivation to serve
++Persian (100%)
++English (90%)
++Deusch (50%)
 
 ---
-### Briefly from me
+### Software Skills:
+
++ Word (100 % )
++ PowerPoint  ( 100 % )
++ Android (100 % )
++ ios (100 %)
++ C & C++ (80 %)
+# Additional Skills:
++ Windows replacementodin & Sp flashtoolsZ3X & Octopus Mobile flash boxes &....
+
+---
+### Contact Details :
+
++ Phone: +989033122896
++ Mail: sh.akbari780@gmail.com
++ Website & applications:
+Telegram: t.me/crzboy
+Instagram: @crzking
