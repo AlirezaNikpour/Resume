@@ -1,11 +1,10 @@
 <h1>Mohamad Mahdi Akbari</h1>
 <img src="photo_2020.jpg">
-Mobile-Repairman
 
 ### Personal Information :
-+ Age: 20
++ Age: 21
 + Gender: Male 
-+ Location: Shahre ghods
++ Location: Tehran
 + Marital Status: Single
 + Military Service Status:Educational Exemption
 
