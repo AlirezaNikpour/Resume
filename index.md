@@ -42,7 +42,7 @@ Bachelor Software engineeringShahriar PNU
 + Android (100 % )
 + ios (100 %)
 + C & C++ (80 %)
-# Additional Skills:
+Additional Skills:
 + Windows replacementodin & Sp flashtoolsZ3X & Octopus Mobile flash boxes &....
 
 ---
