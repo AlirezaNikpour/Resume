@@ -1,7 +1,6 @@
 <h1>Mohamad Mahdi Akbari</h1>
 <img src="photo_2020.jpg">
 Mobile-Repairman
----
 
 ### Personal Information :
 + Age: 20
