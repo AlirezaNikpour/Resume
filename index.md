@@ -51,4 +51,4 @@ Bachelor Software engineeringShahriar PNU
 + Website & applications:
 + Telegram: t.me/crzboy
 + Instagram: @crzking
-[لینک رزومه فارسی]
+[لینک رزومه فارسی]https://github.com/crzboy/Shervin_Ak/blob/gh-pages/Mohamad%20Mahid%20Akbari-fa%20resume.pdf  
