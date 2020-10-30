@@ -51,4 +51,4 @@ Bachelor Software engineeringShahriar PNU
 + Website & applications:
 + Telegram: t.me/crzboy
 + Instagram: @crzking
-+ <a>[لینک رزومه فارسی] Mohamad Mahid Akbari-fa resume.pdf)</a> 
++ [لینک رزومه فارسی] (/Mohamad Mahid Akbari-fa resume.pdf) 
