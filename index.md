@@ -51,4 +51,4 @@ Bachelor Software engineeringShahriar PNU
 + Website & applications:
 + Telegram: t.me/crzboy
 + Instagram: @crzking
-+ [لینک دانلود رزومه فارسی](/resume-fa.md)
++ [لینک دانلود رزومه فاسی](/64503d6e-1aa7-11eb-8b25-0cc47a792c0a_id_64503d6e-1aa7-11eb-8b25-0cc47a792c0a.html)
