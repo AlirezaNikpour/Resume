@@ -50,4 +50,5 @@ Bachelor Software engineeringShahriar PNU
 + Mail: sh.akbari780@gmail.com
 + Website & applications:
 + Telegram: t.me/crzboy
-+ Instagram: @crzking 
++ Instagram: @crzking
++ [لینک دانلود رزومه فارسی](/Mohamad Mahid Akbari-fa resume.pdf)
