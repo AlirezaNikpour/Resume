@@ -1,5 +1,5 @@
 <h1>Mohamad Mahdi Akbari</h1> 
-<img src="photo_2020.jpg .jpg" width="512" height="512">
+<img src="photo_2020.jpg .jpg" width="256" height="256">
 ### Personal Information :
 + Age: 21
 + Gender: Male 
