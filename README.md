@@ -47,6 +47,6 @@ Bachelor Software engineeringShahriar PNU
 + Mail: sh.akbari780@gmail.com
 + Website & applications:
 + Telegram: [t.me/crzboy](https://t.me/crzboy/)
-+ Instagram: [@crzking](https://www.instagram.com/crzking/)
++ Instagram: [crzking](https://www.instagram.com/crzking/)
 + [رزومه فارسی](https://crzboy.github.io/Resume/Mohamad%20Mahid%20Akbari-fa%20resume.html/Mohamad%20Mahid%20Akbari-fa%20resume.html)
 + [(SOP)انگیزه نامه](https://crzboy.github.io/SOP/)
