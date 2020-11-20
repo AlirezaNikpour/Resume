@@ -46,7 +46,7 @@ Bachelor Software engineeringShahriar PNU
 + Phone: +989033122896
 + Mail: sh.akbari780@gmail.com
 + Website & applications:
-+ Telegram: t.me/crzboy
-+ Instagram: @crzking
++ Telegram: [t.me/crzboy](https://t.me/crzboy/)
++ Instagram: [@crzking](https://www.instagram.com/crzking/)
 + [رزومه فارسی](/Mohamad Mahid Akbari-fa resume.html/Mohamad Mahid Akbari-fa resume.html)
 + [(SOP)انگیزه نامه](https://crzboy.github.io/SOP/)
